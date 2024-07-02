@@ -10,7 +10,10 @@ This repository contains my SQL practice project focused on practicing window fu
 By working through these examples, you can gain a deeper understanding of how window functions can be used to perform advanced data analysis in SQL.
 
 ## Data Sources 
-SalesDB : The primary dataset used for this analysis is the "SalesDB.bak" file.
+SalesDB: The primary dataset used for this analysis is the "SalesDB.bak" file.
+
+![sql-data-model](https://github.com/ah97ed/Practicing-Window-Functions-by-SQL-/assets/110858109/794a2d2a-e650-4b10-a7d0-991202166993)
+
 
 ## Tools
 - SQL Server
